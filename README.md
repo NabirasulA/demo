@@ -6,13 +6,8 @@ This repository is a **hands-on Git learning activity** designed for **2 partici
 - **Person B** -> Team Lead/Repository Owner
 
 ## Assumptions
-- Repository name: 
-```bash
-fintech.app
-
-- Default branch: 
-```bash
-main
+- Repository name: ```bash fintech.app
+- Default branch: ```bash main
 
 # # Project Name
 
