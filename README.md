@@ -16,3 +16,10 @@ short description
 git clone https://github.com/NabirasulA/demo.git
 cd repo_name
 npm install
+
+---
+##Procedure
+-step:1 create README.md file
+-step:2 Move to your repo
+-step:3 commit the changes
+-step:4 push to remote repository
