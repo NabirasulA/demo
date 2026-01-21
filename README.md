@@ -5,11 +5,16 @@ This repository is a **hands-on Git learning activity** designed for **2 partici
 - **Person A** -> Developer
 - **Person B** -> Team Lead/Repository Owner
 
-## Assumptions
-- Repository name: ```bash fintech.app
-- Default branch: ```bash main
+## Phase 1 --- Project Birth
+- **Step1: Developer A creates project locally**
+```bash
+mkdir fintech-app
+cd fintech-app
+echo "Fintech App - Initial version" > README.md
 
-# # Project Name
+
+
+<!-- # # Project Name
 
 # ## Description
 # short description
@@ -31,5 +36,5 @@ This repository is a **hands-on Git learning activity** designed for **2 partici
 # ```bash
 # git clone https://github.com/NabirasulA/demo.git
 # cd repo_name
-# npm install
+# npm install -->
 
